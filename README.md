@@ -15,7 +15,7 @@ an AI-powered SaaS helping European SMBs achieve NIS2 compliance.
 
 ## Usage
 These markdown files are consumed by n8n workflows via:
-https://raw.githubusercontent.com/glitchedaemon/nis2kit-directives/main/requirements/gov_01.md
+https://raw.githubusercontent.com/glitchedaemon/nis2kit-directives/main/requirements/*.md
 
 ## License
 MIT License (Compliance logic is public, NIS2Kit platform is proprietary)
